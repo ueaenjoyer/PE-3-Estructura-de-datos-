@@ -1,0 +1,15 @@
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\bin\Debug\net10.0\PE 3 Estrucutra de datos.exe
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\bin\Debug\net10.0\PE 3 Estrucutra de datos.deps.json
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\bin\Debug\net10.0\PE 3 Estrucutra de datos.runtimeconfig.json
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\bin\Debug\net10.0\PE 3 Estrucutra de datos.dll
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\bin\Debug\net10.0\PE 3 Estrucutra de datos.pdb
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\PE 3 Estrucutra de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\PE 3 Estrucutra de datos.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\PE 3 Estrucutra de datos.AssemblyInfo.cs
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\PE 3 Estrucutra de datos.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\PE 3 Estrucutra de datos.sourcelink.json
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\PE 3 Estrucutra de datos.dll
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\refint\PE 3 Estrucutra de datos.dll
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\PE 3 Estrucutra de datos.pdb
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\PE 3 Estrucutra de datos.genruntimeconfig.cache
+C:\Users\Paul\Documents\Estructura de datos\PE 3 Estrucutra de datos\obj\Debug\net10.0\ref\PE 3 Estrucutra de datos.dll
